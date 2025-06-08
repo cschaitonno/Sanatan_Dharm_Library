@@ -1,0 +1,28 @@
+{
+  "book": "Bhagavad Gita",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sloka_sanskrit": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥1॥",
+      "word_meanings": {
+        "धर्म-क्षेत्रे": "in the place of pilgrimage",
+        "कुरु-क्षेत्रे": "in the place named Kurukshetra",
+        "समवेताः": "assembled",
+        "युयुत्सवः": "desiring to fight",
+        "मामकाः": "my sons",
+        "पाण्डवाः": "the sons of Pandu",
+        "च": "and",
+        "एव": "certainly",
+        "किम्": "what",
+        "अकुर्वत": "did (they) do",
+        "सञ्जय": "Sanjaya"
+      },
+      "translation_english": "Dharmakshetra Kurukshetra samaveta yuyutsavah,\nMamakah Pandavaschaiva kim akurvata Sanjaya?",
+      "translation_bangla": "ধর্মক্ষেত্রে কুরুক্ষেত্রে সমবেত যুঁজুত্সবঃ।\nমামকাঃ পাণ্ডবাশ্চৈব কিমকুর্বত সঞ্জয়॥",
+      "translation_hindi": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥",
+      "purport_english": "This opening verse sets the stage of the battle and introduces the characters.",
+      "purport_bangla": "এই প্রারম্ভিক শ্লোকটি যুদ্ধের দৃশ্যপট উপস্থাপন করে এবং চরিত্রদের পরিচয় দেয়।"
+    }
+  ]
+}
